@@ -51,7 +51,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 <p align="justify">
 <img height="140" width="140" src="https://ik.imagekit.io/garbagevalue/garbage/tags/ReactJS_ne_91IZ6n.webp">
-<img height="140" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGzf7OfIzibBs0ThXJIYWlIZu08LFSnz9Kw">
+<img height="140" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4nRDyo67g6iTgA5LKamjgkex8tkPnSf61a7niJJBNiQBjC5YkcBxBj2eKAqCEP4JhE0">
 <img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
 <img height="140" width="140" src="https://logodix.com/logo/470309.png">
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
