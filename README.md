@@ -51,7 +51,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 <p align="justify">
 <img height="140" width="140" src="https://ik.imagekit.io/garbagevalue/garbage/tags/ReactJS_ne_91IZ6n.webp">
-<img height="140" width="140" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fstatic%2F6ee159acf6c294342ec04f86aede5d14%2F701ee%2FcoverImage.jpg&tbnid=2w9PkcORl9_B0M&vet=12ahUKEwiOlL_lrPD_AhVEnWMGHdllAq0QMygMegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fengineering%2Fnode-http-module-server%2F&docid=JE0IHF8OvFTOCM&w=800&h=533&q=nodejs&ved=2ahUKEwiOlL_lrPD_AhVEnWMGHdllAq0QMygMegUIARD6AQ">
+<img height="140" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGzf7OfIzibBs0ThXJIYWlIZu08LFSnz9Kw">
 <img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
 <img height="140" width="140" src="https://logodix.com/logo/470309.png">
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
