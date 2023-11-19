@@ -415,7 +415,7 @@ class App extends React.Component {
     // Changing the Application Body Theme
     const styling = () => {
       if (theme.themeIndex === 0) {
-        return "background-color: ''; transition: all 2s linear;";
+        return "background: linear-gradient(225deg, rgba(191,80,255,1) 0%, rgba(22,66,255,1) 100%); transition: all 2s linear;";
       } else {
         return "background-color: black; transition: all 2s linear;";
       }
