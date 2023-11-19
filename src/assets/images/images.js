@@ -9,23 +9,23 @@ import allsongs from "./allsongs.gif";
 import artists from "./artists.jpg";
 import albums from "./albums.png";
 import song1Img from "./stay.png";
-import song2Img from "./deserve-you.jpeg";
+import song2Img from "./infinity.jpg";
 import song3Img from "./yummy.png";
 
 const images = {
-	wallpaper1,
-	wallpaper2,
-	wallpaper3,
-	wallpaper4,
-	wallpaper5,
-	coverflow,
-	games,
-	allsongs,
-	artists,
-	albums,
-	song1Img,
-	song2Img,
-	song3Img,
+  wallpaper1,
+  wallpaper2,
+  wallpaper3,
+  wallpaper4,
+  wallpaper5,
+  coverflow,
+  games,
+  allsongs,
+  artists,
+  albums,
+  song1Img,
+  song2Img,
+  song3Img,
 };
 
 export default images;
